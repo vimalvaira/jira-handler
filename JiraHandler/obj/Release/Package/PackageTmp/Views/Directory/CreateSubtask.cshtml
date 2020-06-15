@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "CreateSubtask";
+}
+<div class="page-header">
+<h2>Create Subtask</h2> <input type="button" onclick="jh.directory.getCreateIssue()" class="input-submit reset-button" value="Reset"  />
+</div>
+<div id="create-subtask-form">
+    <br />
+    Parent Issue Key: <input type="number"   min="1" id="parent-task" name="parent-task" placeholder="Only Number" class="form-input" onblur="jh.directory.getInfo()" />
+    <br />
+        <p class="inner-div-p">
+            <span>
+                <span id="parent-summary"> </span>
+            </span>
+        </p>
+    
+    <input type="button" value="Plus" class="input-submit plus-button" onclick="jh.directory.insertCreateSubtaskTemplate()">
+    <input type="button" value="Submit" class="input-submit submit-button" onclick="jh.directory.submitForm()">
+    <br>
+   
+
+
+    <div id="subtask-list">
+
+    </div>
+
+
+    <br />
+    <div class="">
+        <div class="create-subtask-container">
+
+        </div>
+    </div>
+
+
+
+
+
+</div>
+
+

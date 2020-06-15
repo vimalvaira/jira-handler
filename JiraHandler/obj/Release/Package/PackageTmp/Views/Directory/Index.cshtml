@@ -1,0 +1,27 @@
+﻿@model IEnumerable<JiraHandler.DataContracts.ProjectIssue>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Chose a Project</h2>
+<br>
+<br>
+<br>
+
+@if (!Model.Any())
+{
+    <H7>Sorry No project where found under this Access </H7>
+}
+@foreach(var project in Model)
+{
+    @*<div class="outer-div" onclick="window.location.href = '@Url.Action("Operation", "Directory", @project.key)">*@
+    <div class="outer-div">
+      <div class="inner-div" onclick="jh.directory.getOperations('@project.key')">
+        <h3 class="h3-block">
+              @project.name
+        </h3>
+        </div>
+    </div>
+
+}
+

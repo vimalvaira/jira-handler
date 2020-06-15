@@ -1,0 +1,140 @@
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\csc.exe
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\vbc.exe
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\VBCSCompiler.exe
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\JiraHandler.dll.config
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\JiraHandler.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\JiraHandler.pdb
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Antlr3.Runtime.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\EntityFramework.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\EntityFramework.SqlServer.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Newtonsoft.Json.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Owin.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Helpers.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Mvc.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Optimization.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Razor.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.WebPages.Deployment.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.WebPages.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.WebPages.Razor.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\WebGrease.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Helpers.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Mvc.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Optimization.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.Razor.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.WebPages.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.WebPages.Deployment.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\System.Web.WebPages.Razor.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Antlr3.Runtime.pdb
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Newtonsoft.Json.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\EntityFramework.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\EntityFramework.SqlServer.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\obj\Debug\JiraHandler.dll
+c:\users\vimal\documents\visual studio 2015\Projects\JiraHandler\JiraHandler\obj\Debug\JiraHandler.pdb
+C:\Users\Vimal\Documents\Visual Studio 2015\Projects\JiraHandler\JiraHandler\obj\Debug\JiraHandler.csprojResolveAssemblyReference.cache
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\csc.exe
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\vbc.exe
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\VBCSCompiler.exe
+D:\Code\JiraHandler\JiraHandler\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\JiraHandler\JiraHandler\bin\JiraHandler.dll.config
+D:\Code\JiraHandler\JiraHandler\bin\JiraHandler.dll
+D:\Code\JiraHandler\JiraHandler\bin\JiraHandler.pdb
+D:\Code\JiraHandler\JiraHandler\bin\Antlr3.Runtime.dll
+D:\Code\JiraHandler\JiraHandler\bin\EntityFramework.dll
+D:\Code\JiraHandler\JiraHandler\bin\EntityFramework.SqlServer.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Google.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\JiraHandler\JiraHandler\bin\Newtonsoft.Json.dll
+D:\Code\JiraHandler\JiraHandler\bin\Owin.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Helpers.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Mvc.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Optimization.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Razor.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.WebPages.Deployment.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.WebPages.dll
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.WebPages.Razor.dll
+D:\Code\JiraHandler\JiraHandler\bin\WebGrease.dll
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Helpers.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Mvc.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Optimization.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.Razor.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.WebPages.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.WebPages.Deployment.xml
+D:\Code\JiraHandler\JiraHandler\bin\System.Web.WebPages.Razor.xml
+D:\Code\JiraHandler\JiraHandler\bin\Antlr3.Runtime.pdb
+D:\Code\JiraHandler\JiraHandler\bin\Newtonsoft.Json.xml
+D:\Code\JiraHandler\JiraHandler\bin\EntityFramework.xml
+D:\Code\JiraHandler\JiraHandler\bin\EntityFramework.SqlServer.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Google.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Code\JiraHandler\JiraHandler\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Code\JiraHandler\JiraHandler\obj\Debug\JiraHandler.csprojAssemblyReference.cache
+D:\Code\JiraHandler\JiraHandler\obj\Debug\JiraHandler.csproj.CoreCompileInputs.cache
+D:\Code\JiraHandler\JiraHandler\obj\Debug\JiraHandler.csproj.CopyComplete
+D:\Code\JiraHandler\JiraHandler\obj\Debug\JiraHandler.dll
+D:\Code\JiraHandler\JiraHandler\obj\Debug\JiraHandler.pdb

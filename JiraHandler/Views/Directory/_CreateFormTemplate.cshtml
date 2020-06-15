@@ -1,0 +1,25 @@
+﻿@model JiraHandler.Models.FormWrapperModel
+<form>
+
+    <div class="subtask-form">
+        <div class="form-section">
+            <div class="row">
+                @Html.DropDownList("Assignee", new SelectList(Model.Users,"name", "displayName"), new { @class = "form-input" })
+                @Html.DropDownList("IssueType", new SelectList(Model.IssueTypes, "id", "name"), new { @class = "form-input" })
+                <input type="text" id="start-date" name="StartDate" placeholder="Start Date" class="form-input date-input" onfocus="(this.type='date')" onblur="(this.type='text')">
+                <input type="text" id="end-date" name="EndDate" placeholder="End Date" class="form-input date-input" onfocus="(this.type='date')" onblur="(this.type='text')">
+            </div>
+            <div class="row">
+                <input type="text" id="summary" name="Summary" placeholder="Summary" class="form-input ">
+                <input type="text" id="description" name="Description" placeholder="Description" class="form-input">
+             @*<input type="text" id="orignal-estimate" name="OrignalEstimates" placeholder="Orignal Estimates" class="hide" >*@
+                <div class="date-part-wrapper"  >
+                    <input type="number" placeholder="Day" name="Day" id="day" min="0" class="date-part-three"  onblur="jh.directory.calulateTime()"  >
+                    <input type="number" placeholder="Hour" name="Hour"  id="hour" min="0" class="date-part-three"  onblur="jh.directory.calulateTime()"  >
+                    <input type="number" placeholder="Minute" name="Minute" id="minute" min="0" class="date-part-three" onblur="jh.directory.calulateTime()" >
+                </div>
+                <input type="button" value="Remove" class="input-submit remove-button" onclick="jh.directory.removeFormSection(this)"/>
+            </div>
+        </div>
+    </div>
+</form>

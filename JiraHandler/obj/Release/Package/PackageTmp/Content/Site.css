@@ -1,0 +1,239 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+h2 {
+    color: white;
+}
+
+.outer-div {
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+
+.inner-div {
+    background-color: darkgrey;
+}
+
+.h3-block {
+    color: black;
+}
+
+#subtask-list {
+    visibility: hidden;
+}
+
+.inner-side {
+    background-color: blueviolet;
+}
+
+    .inner-side h3 {
+        color: white;
+    }
+
+.form {
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    background-color: lightblue;
+    border: 3px;
+    border-radius: 8px;
+}
+
+.textarea {
+    border: 2px;
+    outline: 0;
+    padding: 1em;
+    border-radius: 8px;
+    display: block;
+    line-height: 50px;
+    width: 100%;
+    margin-top: 1em;
+    margin-right: 3px;
+    font-family: 'Merriweather', sans-serif;
+    box-shadow: 0 1px 1px 1px;
+    resize: none;
+}
+
+    .textarea :focus {
+        box-shadow: 0 0px 2px 1px !important;
+    }
+
+.form-input {
+    border: 0;
+    outline: 0;
+    padding: 1em;
+    border-radius: 6px;
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+    margin-left: 2px;
+    font-family: 'Merriweather', sans-serif;
+    box-shadow: 0 1px 1px 1px;
+    resize: none;
+    background-color: white;
+    margin-top : 0 !important;
+}
+
+    .form-input :focus {
+        box-shadow: 0 0px 2px 1px !important;
+    }
+
+
+.input-submit {
+    color: white;
+    cursor: pointer;
+    font-size: 50%;
+    border-radius: 8px;
+}
+
+
+    .input-submit.remove-button {
+        background: red;
+    }
+
+    .input-submit.plus-button {
+        background: aquamarine;
+    }
+
+    .input-submit.submit-button {
+        background: dodgerblue;
+    }
+
+     .input-submit.reset-button {
+        background: yellow;
+        margin:15px
+
+    }
+
+     .page-header{
+         display:flex;
+     }
+
+    .input-submit :hover {
+        box-shadow: 0 1px 1px 1px 1px;
+    }
+
+
+
+
+.half {
+    float: left;
+    width: 48%;
+    margin-bottom: 1em;
+    position: absolute;
+    bottom: 0;
+}
+
+.right {
+    width: 50%;
+}
+
+.left {
+    margin-right: 2%;
+}
+
+
+@media (max-width: 480px) {
+    .half {
+        width: 100%;
+        float: none;
+        margin-bottom: 0;
+    }
+}
+
+
+
+.input-plus {
+    float: right;
+    border: 50px;
+    margin: 50px;
+    background-color: pink;
+    border: 2px;
+}
+
+
+.ui-datepicker-calendar {
+    background-color: antiquewhite;
+}
+
+    .ui-datepicker-calendar thead {
+        background-color: burlywood;
+    }
+
+
+.ui-datepicker-header {
+    background-color: Background;
+    color: white;
+}
+
+#ui-datepicker-div {
+    border: 1px solid black;
+}
+
+.form-input {
+    color: black;
+}
+
+.subtask-form {
+    margin-bottom:12px;
+}
+
+    .subtask-form .row {
+        display: inline-flex;
+        width: -webkit-fill-available;
+    }
+
+
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    position: absolute;
+color:white;
+}
+
+
+.inner-div-p{
+    background-color: black;
+}
+
+ .date-part-wrapper{
+     display: flex;
+     transform: scale(.95,.95);
+  
+ }
+
+ .date-part-wrapper input{
+  background-color : white;
+  color: black;
+ }
+
+ .hide{
+     visibility: hidden;
+ }
+
